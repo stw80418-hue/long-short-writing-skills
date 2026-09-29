@@ -1,0 +1,5 @@
+interface:
+  display_name: "社群短文寫作"
+  short_description: "把內容矩陣選題寫成自然、聚焦且符合平台的社群短文"
+  default_prompt: "使用 $short-form-writer，根據我的寫作任務卡完成一篇社群短文。"
+

@@ -1,0 +1,5 @@
+interface:
+  display_name: "長文寫作"
+  short_description: "從寫作任務卡建立大綱、補足論證並完成可信的長篇文章"
+  default_prompt: "使用 $long-form-writer，根據我的寫作任務卡先規劃長文大綱。"
+
